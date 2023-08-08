@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/vedantyede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedantyede" height="30" width="40" /></a>
 <a href="https://fb.com/vedant.yede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vedant.yede" height="30" width="40" /></a>
 <a href="https://instagram.com/vedantyede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedantyede" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vedantyede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vedantyede" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vedantyede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vedantyede" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vedantyede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedantyede" height="30" width="40" /></a>
 </p>
 
