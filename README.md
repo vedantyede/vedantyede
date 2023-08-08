@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vedant Yede</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **vedantyede@gmail.com**
+
+- 📄 Know about my experiences [https://vedantyede.tiiny.site/](https://vedantyede.tiiny.site/)
+
+- ⚡ Fun fact **I waste my time watching anime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,7 +17,7 @@
 <a href="https://linkedin.com/in/vedantyede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedantyede" height="30" width="40" /></a>
 <a href="https://fb.com/vedant.yede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vedant.yede" height="30" width="40" /></a>
 <a href="https://instagram.com/vedantyede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedantyede" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vedantyede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vedantyede" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@vedantyede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vedantyede" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vedantyede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedantyede" height="30" width="40" /></a>
 </p>
 
