@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **vedantyede@gmail.com**
 
-- 📄 Know about my experiences [https://vedantyede.tiiny.site/](https://vedantyede.tiiny.site/)
-
 - ⚡ Fun fact **I waste my time watching anime.**
 
 <h3 align="left">Connect with me:</h3>
